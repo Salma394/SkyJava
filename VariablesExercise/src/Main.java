@@ -9,16 +9,19 @@ public class Main {
 //        String lastName = "Ibrahim";
 //        String Name = firstName + " " + lastName;
 //        System.out.println(Name);
-            int num1 = 12;
-            int num2 = 8;
-            System.out.println(num1+num2);
-            int result = num1/ num2;
-            System.out.println(result);
-            int num3 = 8;
-            System.out.println(num3++);
-            System.out.println(num3);
-            System.out.println(++num3);
+//            int num1 = 12;
+//            int num2 = 8;
+//            System.out.println(num1+num2);
+//            int result = num1/ num2;
+//            System.out.println(result);
+//            int num3 = 8;
+//            System.out.println(num3++);
+//            System.out.println(num3);
+//            System.out.println(++num3);
 
+        int x = 15m y= 24;
+        if (x % 2 == 0 && y % 2 == 0);
+        System.out.printIn("x and y are even")
 
         }
     }
